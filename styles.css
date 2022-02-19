@@ -15,7 +15,7 @@ body {
     position: relative;
     top: 4rem;
     box-sizing: border-box;
-    width: 24rem;
+    width: 23.25rem;
     height: 36rem;
     border-radius: 1rem;
     margin: auto;
@@ -47,6 +47,7 @@ p.summary {
     font-size: 0.9rem;
     padding-left: 2rem;
     padding-right: 2rem;
+    margin-bottom: 1rem;
 }
 
 section {
@@ -79,7 +80,7 @@ img {
 h2 {
     font-size: 1rem;
     margin-top: 1rem;
-    margin-bottom: 0rem;
+    margin-bottom: 0.25rem;
 }
 
 p.price {
